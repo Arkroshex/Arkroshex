@@ -33,8 +33,8 @@
 ### Operating Systems
 
 ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=9C669C&style=flat&logo=linux)
-![Manjaro](https://img.shields.io/static/v1?label=&message=Manjaro&color=F0F0F0&style=flat&logo=Manjaro)
-![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&style=flat&logo=Ubuntu)
+![Manjaro](https://img.shields.io/static/v1?label=&message=Manjaro&color=4A675D&style=flat&logo=Manjaro)
+![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=669C8A&style=flat&logo=Ubuntu)
 ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=0078D6&style=flat&logo=windows)
 
 <!--
