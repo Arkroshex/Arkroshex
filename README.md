@@ -32,10 +32,10 @@
 
 ### Operating Systems
 
-[![linux](https://img.shields.io/static/v1?label=&message=Linux&color=AF00AF&style=flat&logo=linux)
-[![Manjaro](https://img.shields.io/static/v1?label=&message=Manjaro&color=AF00AF&style=flat&logo=Manjaro)
-
-[![windows](https://img.shields.io/static/v1?label=&message=Windows&color=0078D6&style=flat&logo=windows)
+![linux](https://img.shields.io/static/v1?label=&message=Linux&color=AF00AF&style=flat&logo=linux)
+![Manjaro](https://img.shields.io/static/v1?label=&message=Manjaro&color=16A085&style=flat&logo=Manjaro)
+![Kubuntu](https://img.shields.io/static/v1?label=&message=Kubuntu&color=0079C1&style=flat&logo=Kubuntu)
+![windows](https://img.shields.io/static/v1?label=&message=Windows&color=0078D6&style=flat&logo=windows)
 
 <!--
 **Arkroshex/Arkroshex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
