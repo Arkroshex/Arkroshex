@@ -32,9 +32,9 @@
 
 ### Operating Systems
 
-![linux](https://img.shields.io/static/v1?label=&message=Linux&color=AF00AF&style=flat&logo=linux)
-![Manjaro](https://img.shields.io/static/v1?label=&message=Manjaro&color=16A085&style=flat&logo=Manjaro)
-![Kubuntu](https://img.shields.io/static/v1?label=&message=Kubuntu&color=0079C1&style=flat&logo=Kubuntu)
+![linux](https://img.shields.io/static/v1?label=&message=Linux&color=9C669C&style=flat&logo=linux)
+![Manjaro](https://img.shields.io/static/v1?label=&message=Manjaro&color=F0F0F0&style=flat&logo=Manjaro)
+![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&style=flat&logo=Ubuntu)
 ![windows](https://img.shields.io/static/v1?label=&message=Windows&color=0078D6&style=flat&logo=windows)
 
 <!--
