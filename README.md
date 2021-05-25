@@ -1,10 +1,10 @@
 # Hi there, I'm Igor Reis 🤟🏽
 
 ## **About me**:
-* Computer Engineering at Federal University of Bahia 🇧🇷
+* IT student at Federal University of Bahia 🇧🇷
 * Love for challenges
 * Currently studying web development with node and .NET
-* Am a Junior Entrepeneur at **[TITAN](http://titanci.com.br)**
+* Junior Entrepeneur at **[TITAN](http://titanci.com.br)**
 * AV Design Intern
 
 
